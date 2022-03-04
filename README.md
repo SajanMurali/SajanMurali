@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sajan Murali
-- 👀 Am a proffesional in fashion technology 
-- 🌱 I’m currently learning to MERN stacks for website developemnt and design alog with my proffesion
-- 💞️ I’m looking to collaborate on metaverse projects as a concept developer
+- 👋 Hi, I’m Sajan Murali.
+- 👀 Am a proffesional in fashion technology ,Graduated from Indian Institute of Fashion Technology,Bangalore.
+- 🌱 I’m currently in a learning proccess of core javaScript concpets,MERN stacks and RUST for Website Design and developemnt to keep me alive with the online presence.
+- 💞️ I’m looking to collaborate on METAVERSE DESIGN DEVELOPMENT TEAM.
 - 📫 Reach me sajanmurali@ymail.com ,
 -     Mob-+91 7022166440,8848990829
 - 
