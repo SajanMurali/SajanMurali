@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sajan Murali.
 - 👀 Am a proffesional in fashion technology ,Graduated from Indian Institute of Fashion Technology,Bangalore.
-- 🌱 I’m currently in a learning proccess of Python/Django web framework.
+- 🌱 An year of experience in Data Science ,Prediciting and analysing the possibilities of digital data for improvement.  
 - 💞️ very much interested to collaborate on METAVERSE DESIGN DEVELOPMENT TEAM.
 - 📫 sajanmurali@ymail.com ,
 -     Mob-+91 7022166440,8848990829
